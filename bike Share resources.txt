@@ -1,0 +1,7 @@
+The following are websites I used for bike share.
+
+https://pandas.pydata.org/pandas-docs/version/0.17.0/ 
+
+https://www.w3schools.com/python/default.asp
+
+https://docs.python.org/3/library/index.html
